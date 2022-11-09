@@ -1,0 +1,87 @@
+<mxfile host="65bd71144e">
+    <diagram id="pPxYu7qH_WCTbwSeLcAf" name="Page-1">
+        <mxGraphModel dx="430" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" style="edgeStyle=none;html=1;entryX=0.447;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="600" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Summe bilden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="370" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Zahlen eingeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="220" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;entryX=0.417;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Summe Ausgeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="480" width="190" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Copy of Page-1" id="AGmc7OYeDKjvuMwpdind">
+        <mxGraphModel dx="430" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-0"/>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-1" parent="ZoDiSml9HgXk4COEpOqO-0"/>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-2" style="edgeStyle=none;html=1;entryX=0.447;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZoDiSml9HgXk4COEpOqO-1" source="ZoDiSml9HgXk4COEpOqO-3" target="ZoDiSml9HgXk4COEpOqO-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZoDiSml9HgXk4COEpOqO-1">
+                    <mxGeometry x="180" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-4" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZoDiSml9HgXk4COEpOqO-1">
+                    <mxGeometry x="175" y="740" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZoDiSml9HgXk4COEpOqO-1" source="ZoDiSml9HgXk4COEpOqO-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="620" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-6" value="Summe bilden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZoDiSml9HgXk4COEpOqO-1">
+                    <mxGeometry x="155" y="620" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="jhAl6XIaP-leSXwvGBUq-1" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZoDiSml9HgXk4COEpOqO-1" source="ZoDiSml9HgXk4COEpOqO-8" target="jhAl6XIaP-leSXwvGBUq-0">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-8" value="Ziffern eingeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ZoDiSml9HgXk4COEpOqO-1">
+                    <mxGeometry x="160" y="220" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-9" style="edgeStyle=none;html=1;" edge="1" parent="ZoDiSml9HgXk4COEpOqO-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="700" as="sourcePoint"/>
+                        <mxPoint x="230" y="750" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jhAl6XIaP-leSXwvGBUq-3" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZoDiSml9HgXk4COEpOqO-1" source="ZoDiSml9HgXk4COEpOqO-10" target="ZoDiSml9HgXk4COEpOqO-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZoDiSml9HgXk4COEpOqO-10" value="Summe Ausgeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ZoDiSml9HgXk4COEpOqO-1">
+                    <mxGeometry x="140" y="480" width="190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="jhAl6XIaP-leSXwvGBUq-2" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZoDiSml9HgXk4COEpOqO-1" source="jhAl6XIaP-leSXwvGBUq-0" target="ZoDiSml9HgXk4COEpOqO-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jhAl6XIaP-leSXwvGBUq-0" value="Ziffern in Zahlen konvertieren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZoDiSml9HgXk4COEpOqO-1">
+                    <mxGeometry x="180" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
